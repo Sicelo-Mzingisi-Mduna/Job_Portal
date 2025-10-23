@@ -1,1 +1,5 @@
 *.docx
+*.bkp
+*.dtmp
+*.tmp
+*.drawio
